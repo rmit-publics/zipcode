@@ -27,4 +27,4 @@ utilizando o comando `docker compose up `, o sistema irá iniciar em `http:://lo
 ```
 
 ### Contatos
-* Autor - [Rodrigo Mariano](www.linkedin.com/in/rodrigo-mariano-05368819)
+* Autor - [Rodrigo Mariano](https://www.linkedin.com/in/rodrigo-mariano-05368819)
